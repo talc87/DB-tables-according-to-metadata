@@ -14,7 +14,7 @@ the class uses 2 objects:
 
 beside python and the relevant depandadices, you should have the following DB created.
  1. MongoDB instance- the mongoDB will stored the tables metadata. [I used the Atlas free tier](https://www.mongodb.com/)
- 2. MySQL instance- **You should name the DB as the CollectionName name**.
+ 2. MySQL instance- **The db name shpuld match the CollectionName **.
  3. ExtractionConfig JSON file
 
 
